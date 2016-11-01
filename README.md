@@ -9,4 +9,5 @@ iex> Identicon.main("banana")
 ```
 
 Generates the following:
+<br>
 <kbd>![banana identicon](https://raw.githubusercontent.com/nickarora/identicon/master/images/banana.png)</kbd>
